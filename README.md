@@ -2,10 +2,10 @@
 During my internship, I worked on a machine learning project to predict housing prices in California using various input features such as location, number of bedrooms, and number of bathrooms. To complete this project, I followed a structured process that involved framing the problem, obtaining and preprocessing the data, selecting and training a model, and launching and maintaining the model. I obtained the California Housing Price dataset, which contains information on more than 20,000 homes in the state, and used it to train a machine learning model. The model was able to learn from the data and make accurate predictions of housing prices based on the input features. The resulting model can be used to predict housing prices in California, and the code and resources for the project are available in this repository.
 
 Table of Contents
-1-Description
-2-Installation
-3-Usage
-4-License
+   1-Description
+   2-Installation
+   3-Usage
+   4-License
 
 
 Description :
