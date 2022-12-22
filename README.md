@@ -22,12 +22,5 @@ You can install these dependencies using the following command:
 
             pip install numpy scipy scikit-learn
 			
-Usage :
-To use the model, you can call the predict_housing_prices() function and pass it the desired input features. The function will return a prediction of the housing price for the given input:
 
-           from housing_model import predict_housing_prices
-           prediction = predict_housing_prices(location='San Francisco', bedrooms=3, bathrooms=2)
-           print(prediction)
 
-License :
-This project is licensed under the MIT License.
